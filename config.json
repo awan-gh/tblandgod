@@ -2,5 +2,5 @@
 	"ip":"imtoothbrush.aternos.me",
 	"port": "55046",
 	"name": "TBLandGod",
-	"auto-night-skip":"false"
+	"auto-night-skip":"true"
 }
